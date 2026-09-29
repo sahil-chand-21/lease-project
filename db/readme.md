@@ -1,1 +1,1 @@
-hello 
+welcome to the database folder
